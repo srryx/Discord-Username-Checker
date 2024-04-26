@@ -1,0 +1,12 @@
+{
+    "webhook_url": "",
+    "proxy": {
+      "host": "",
+      "port": "",
+      "username": "",
+      "password": ""
+    },
+    "speed": 0.4,
+    "max_workers": 1
+  }
+  
